@@ -98,5 +98,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♀️ Author
 
-**S. Keerthika**  
+**R.kirubba sri**  
 Feel free to connect or contribute!
